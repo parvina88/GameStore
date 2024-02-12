@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iXG2YAt0qZ444TS40ubpEdAoBfz+ix/1cqWCURFA7Pg=",
+  "Hash": "V0c3en2TREihsonDYTmbj8AR+WDoSLh70rJ/MtBJlDU=",
   "Source": "GameStore.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7919,25 +7919,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
-    },
-    {
-      "Identity": "D:\\Projects\\GameStore\\GameStore.Client\\wwwroot\\sample-data\\weather.json",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\GameStore\\GameStore.Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
     }
   ]
 }

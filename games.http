@@ -1,0 +1,33 @@
+@baseUrl = http://localhost:5210
+
+
+GET {{baseUrl}}/games
+
+###
+GET {{baseUrl}}/games/2
+
+###
+POST {{baseUrl}}/games
+content-type: application/json
+
+{
+    "name": "New game",
+    "genre": "Strategy",
+    "price": 12.56,
+    "releaseDate": "2011-11-18"
+}
+
+###
+PUT {{baseUrl}}/games/1
+Content-Type: application/json
+
+{
+    "name": "Mafia III Turbo",
+    "genre": "Strategy",
+    "price": 21.45,
+    "releaseDate": "2020-11-18"
+}
+
+###
+DELETE {{baseUrl}}/games/2
+

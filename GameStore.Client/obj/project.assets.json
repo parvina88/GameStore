@@ -2063,11 +2063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Projects\\GameStore\\GameStore.Client\\GameStore.Client.csproj",
+      "projectUniqueName": "D:\\Projects\\GameStore\\GameStore.Client\\GameStore.Client.csproj",
       "projectName": "GameStore.Client",
-      "projectPath": "d:\\Projects\\GameStore\\GameStore.Client\\GameStore.Client.csproj",
+      "projectPath": "D:\\Projects\\GameStore\\GameStore.Client\\GameStore.Client.csproj",
       "packagesPath": "C:\\Users\\parvina\\.nuget\\packages\\",
-      "outputPath": "d:\\Projects\\GameStore\\GameStore.Client\\obj\\",
+      "outputPath": "D:\\Projects\\GameStore\\GameStore.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
